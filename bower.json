@@ -4,7 +4,8 @@
   "dependencies": {
     "bootstrap-sass": "~3.3.5",
     "modernizr": "~2.8.3",
-    "fontawesome": "~4.4.0"
+    "fontawesome": "~4.4.0",
+    "elusive-icons": "latest"
   },
   "overrides": {
     "bootstrap-sass": {
